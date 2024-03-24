@@ -1,6 +1,6 @@
 # Boeing-747-8-Aero-Analysis
 
-For the analysis, the traditional BACXXX airfoil is used. The gridpoint location of the airfoil is derived from ![airfoil tools](http://airfoiltools.com/airfoil/details?airfoil=bacxxx-il). An excel file with the grid points can be found in the repository. A preliminary analysis is conducted using the thin airfoil theory and then the finite wing model is constructed. Python code for both operations can be found in the repository as well. 
+For the analysis, the traditional BACXXX airfoil is used. The gridpoint location of the airfoil is derived from [airfoil tools](http://airfoiltools.com/airfoil/details?airfoil=bacxxx-il). An excel file with the grid points can be found in the repository. A preliminary analysis is conducted using the thin airfoil theory and then the finite wing model is constructed. Python code for both operations can be found in the repository as well. 
 ## Thin Airfoil Theory!
 
 ![image](https://github.com/khushant2001/Boeing-747-8-Aero-Analysis/assets/70731991/42954b23-a539-4709-9260-35beb6c3a13b)

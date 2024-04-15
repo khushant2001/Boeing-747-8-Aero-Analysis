@@ -18,3 +18,10 @@ For the analysis, the traditional BACXXX airfoil is used. The gridpoint location
 ![image](https://github.com/khushant2001/Boeing-747-8-Aero-Analysis/assets/70731991/5a8768c3-76dc-4033-939a-0cddcde5c4e4)
 
 ![image](https://github.com/khushant2001/Boeing-747-8-Aero-Analysis/assets/70731991/87cb90ae-022e-4dd2-8bbb-d706b17479b8)
+
+## Results from XFLR5 
+![image](https://github.com/khushant2001/Boeing-747-8-Aero-Analysis/assets/70731991/b54a9bd6-ce7b-43b2-9b53-5ff290ae57ff)
+
+![image](https://github.com/khushant2001/Boeing-747-8-Aero-Analysis/assets/70731991/68372098-6fff-4ce4-a922-305eca4139e6)
+
+![image](https://github.com/khushant2001/Boeing-747-8-Aero-Analysis/assets/70731991/c7c0da0d-9c08-4506-85c8-b4f68b2c4cf3)
